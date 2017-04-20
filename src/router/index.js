@@ -6,6 +6,7 @@ import tour02 from '@/components/tour02'
 import tour03 from '@/components/tour03'
 import tour04 from '@/components/tour04'
 import tour05 from '@/components/tour05'
+import tour07 from '@/components/tour07'
 
 Vue.use(Router)
 
@@ -34,6 +35,10 @@ export default new Router({
     {
       path: '/tour05',
       component: tour05
+    },
+    {
+      path: '/tour07',
+      component: tour07
     }
   ]
 })
