@@ -4,4 +4,4 @@
 ## tour01
 D3.js 的入门教程。
 
-![](assets/images/tour01.png)
+![](src/assets/images/tour01.png)
